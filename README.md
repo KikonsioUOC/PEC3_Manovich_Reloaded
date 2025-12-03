@@ -81,3 +81,10 @@ En resum, per a mi Zwift és una manera diferent d’entendre l’entrenament: u
 
 ----
 
+### Llicència
+
+El contingut d’aquest repositori (text i imatges pròpies) es publica sota llicència  
+**Creative Commons Reconeixement-NoComercial 4.0 Internacional (CC BY-NC 4.0)**.
+
+Aquest repositori parteix de la plantilla `PEC3_Manovich_Reloaded` de Miguel Gea (llicència MIT).
+
