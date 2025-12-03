@@ -7,7 +7,7 @@ Autor: Enrique Barberà Ucher
 
 Fecha: 17/12/2025
 
-![Captura Zwift](img/Hot Laps in Watopia.jpeg)
+![Captura Zwift](img/Hot_Laps_in_Watopia.jpeg)
 
 
 ## Introducció
@@ -68,7 +68,7 @@ En resum, per a mi Zwift és una manera diferent d’entendre l’entrenament: u
 
 ---
 
-### Bibliografía
+### Bibliografia
 
 - Manovich, Lev. *Software Takes Command*. Bloomsbury Academic, 2013.  
 - Manovich, Lev. *The Language of New Media*. MIT Press, 2001.  
@@ -81,4 +81,3 @@ En resum, per a mi Zwift és una manera diferent d’entendre l’entrenament: u
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
