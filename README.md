@@ -6,7 +6,7 @@ Autor: Enrique Barberà Ucher
 
 Fecha: 17/12/2025
 
-![Cultura Digital]([https://forums.zwift.com/t/my-zwift-only-uploading-map-and-not-screenshot-to-strava/482687](https://lh3.googleusercontent.com/g19S0PaEYqrviVuZfCUg1fw56dhLRbFTza-XzSnwQ6B1CQ7RjvIPnoLa3raeeqGcK2RrqYk-VVQuc_BctIJRb1wIAw=s800-w800-h500)) 
+![Zwift] (https://cdn.mos.cms.futurecdn.net/roPCehd6ZdWLUNU7MYSQEc.jpg)
 
 
 
